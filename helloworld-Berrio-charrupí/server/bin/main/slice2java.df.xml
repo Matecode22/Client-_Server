@@ -1,0 +1,8 @@
+<state>
+  <timestamp value='1758735709367' />
+  <sourceSet name='default'>
+    <source name='C:\Users\USER\Desktop\SEPTIMO SEMESTRE\Ingesoft 4\helloworld-Berrio-charrupí\Printer.ice' />
+    <arg value='C:\Program Files\ZeroC\Ice-3.7.10\\bin\slice2java.exe' />
+    <arg value='-IC:\Program Files\ZeroC\Ice-3.7.10\\slice' />
+  </sourceSet>
+</state>

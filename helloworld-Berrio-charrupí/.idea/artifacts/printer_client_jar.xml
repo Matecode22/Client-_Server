@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="printer.client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/printer_client_jar</output-path>
+    <root id="archive" name="printer.client.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/client/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="archive" name="client.jar" />
+    </root>
+  </artifact>
+</component>
